@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am a Computer Science engineering student with a strong interest in data science and machine learning. I am currently building my skills in Python, data analysis, and statistical modeling, and working on small projects to apply these concepts to real-world problems.<br><br>I am actively learning and improving through hands-on practice, online courses, and open-source exploration. I’m looking for guidance, mentorship, and opportunities to collaborate on data science, analytics, or machine learning projects where I can contribute, learn, and grow.<br><br>My long-term goal is to become a data scientist at a top technology company and work on impactful, data-driven solutions.
+🚀 Computer Science Engineering Student with a strong passion for Data Science, Machine Learning, and Analytics.
+📊 Currently focused on building a solid foundation in Python, Data Analysis, Statistics, and ML fundamentals through consistent hands-on projects and practical learning.
+🔍 Actively exploring real-world problem solving using data and continuously improving my technical and analytical skills.
+🤝 Open to collaboration, mentorship, and learning opportunities where I can contribute, grow, and gain industry-level experience.
+🎯 Long-term goal: Become a Data Scientist at a top technology company and work on impactful, data-driven solutions.
 
 
 ## 🌐 Socials:
