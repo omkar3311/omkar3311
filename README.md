@@ -21,21 +21,17 @@
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=plastic&logo=google&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-5A45FF?style=plastic&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white)
-
 ![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=plastic)
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-FF6B35?style=plastic)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-412991?style=plastic)
 ![Embeddings](https://img.shields.io/badge/Embeddings-3776AB?style=plastic)
 ![Vector Databases](https://img.shields.io/badge/Vector%20Databases-5A45FF?style=plastic)
 ![Guardrails](https://img.shields.io/badge/LLM%20Guardrails-2E8B57?style=plastic)
-
 ![Tavily](https://img.shields.io/badge/Tavily-000000?style=plastic)
 ![Apify](https://img.shields.io/badge/Apify-00AEEF?style=plastic&logo=apify&logoColor=white)
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white)
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
